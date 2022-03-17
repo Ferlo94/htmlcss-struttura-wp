@@ -29,10 +29,34 @@
 
 .sfondo-blu {
     background-color: #0480fa;
-    min-height: 300px;
+    min-height: 400px;
 }
 
 .fascia-alta-celeste {
     background-color: #abcfe7;
     min-height: 100px;
+    margin-bottom: 10px;
+}
+
+.colonna-sinistra {
+    background-color: #abcfe7;
+    min-height: 250px;
+    float: left;
+    width: 30%;
+}
+
+.colonna-centrale {
+    background-color: #abcfe7;
+    min-height: 250px;
+    float: left;
+    width: 30%;
+    margin-left: 20px;
+}
+
+.colonna-destra {
+    background-color: #abcfe7;
+    min-height: 250px;
+    float: left;
+    width: 30%;
+    margin-left: 20px;
 }
