@@ -18,46 +18,52 @@
 .fascia-violetta {
     background-color: #e579e6;
     min-height: 100px;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
 
 .fascia-gialla {
     background-color: #e1d67a;
     min-height: 400px;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
 
 .sfondo-blu {
     background-color: #0480fa;
-    min-height: 400px;
+    min-height: 540px;
 }
 
 .fascia-alta-celeste {
     background-color: #abcfe7;
     min-height: 100px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .colonna-sinistra {
     background-color: #abcfe7;
-    min-height: 250px;
+    min-height: 400px;
     float: left;
     width: 20%;
 }
 
 .colonna-centrale {
     background-color: #abcfe7;
-    min-height: 250px;
+    min-height: 400px;
     float: left;
-    width: calc(60% - 20px);
-    margin-left: 10px;
+    width: calc(60% - 30px);
+    margin-left: 15px;
     
 }
 
 .colonna-destra {
     background-color: #abcfe7;
-    min-height: 250px;
+    min-height: 400px;
     float: left;
     width: 20%;
-    margin-left: 10px;
+    margin-left: 15px;
+}
+
+.fascia-viola {
+    background-color: #8900fe;
+    min-height: 70px;
+    margin-top: 10px;
 }
