@@ -42,21 +42,22 @@
     background-color: #abcfe7;
     min-height: 250px;
     float: left;
-    width: 30%;
+    width: 20%;
 }
 
 .colonna-centrale {
     background-color: #abcfe7;
     min-height: 250px;
     float: left;
-    width: 30%;
-    margin-left: 20px;
+    width: calc(60% - 20px);
+    margin-left: 10px;
+    
 }
 
 .colonna-destra {
     background-color: #abcfe7;
     min-height: 250px;
     float: left;
-    width: 30%;
-    margin-left: 20px;
+    width: 20%;
+    margin-left: 10px;
 }
