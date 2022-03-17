@@ -10,13 +10,19 @@
 }
 
 .fascia-violetta {
-    background-color: blueviolet;
+    background-color: #e579e6;
     min-height: 100px;
     margin-bottom: 10px;
 
 }
 
 .fascia-gialla {
-    background-color: yellow;
+    background-color: #e1d67a;
     min-height: 400px;
+    margin-bottom: 10px;
+}
+
+.sfondo-blu {
+    background-color: #0480fa;
+    min-height: 300px;
 }
