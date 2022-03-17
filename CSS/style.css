@@ -12,5 +12,11 @@
 .fascia-violetta {
     background-color: blueviolet;
     min-height: 100px;
+    margin-bottom: 10px;
 
+}
+
+.fascia-gialla {
+    background-color: yellow;
+    min-height: 400px;
 }
